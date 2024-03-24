@@ -2,32 +2,31 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## Surya Harahap's Cloud Journey
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+My name is Surya Harahap, and i'm interest cloud computing. I graduated from Universitas Sangga Buana YPKP with a Bachelor of Technology in Computer Science in 2022, where I gained valuable experience and knowledge in different domains of the tech industry, such as mobile development (android & iOS), data analysis, ui/ux design, and product management. 
 
-## [✍️ Your Name]'s Cloud Journey
+I'm starting this challange as a way to expand my Cloud Skillset across Multi-Cloud environments. 
 
-[✍️ Introduce yourself]
+At the end of this challange, I'd like to:
 
-[✍️ Tell us why you started this challenge]
+ - Have the knowlegde to create service across multiple cloud providers.
+ - Implementing an AWS-based architecture using AWS frameworks to enhance overall system design.
+ - Be comfortable identifying the best cloud service offering for a particular problem.
+- Gain knowledge of Ansible and Terraform.
+- Be comfortable identiying and troubleshooting services across multiple providers.
 
-[✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
 
-## Stepping out the door
+[Twitter](https://twitter.com/suryaharahap18)
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+[LinkedIn](https://www.linkedin.com/in/suryaharahap)
+
+[Blog website](https://suryahr.tech/)
+
+## Amazon Web Service (AWS)
+
+- [ ] ☁️ 1 > [](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
@@ -38,7 +37,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
-## Walking down the road
+## 
 
 - [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
@@ -51,7 +50,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
-## Crossing the bridge
+## 
 
 - [ ] ☁️ 21 > [](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
@@ -64,7 +63,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
-## Into the bushy, thorny forest
+## 
 
 - [ ] ☁️ 31 > [](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
@@ -77,7 +76,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
 
-## Trekking the dunes
+## 
 
 - [ ] ☁️ 41 > [](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [](Journey/042/Readme.md)
@@ -90,7 +89,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
-## Winding through the canyons
+## 
 
 - [ ] ☁️ 51 > [](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)
@@ -103,7 +102,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
-## Stumbling through the caves
+## 
 
 - [ ] ☁️ 61 > [](Journey/061/Readme.md)
 - [ ] ☁️ 62 > [](Journey/062/Readme.md)
@@ -116,7 +115,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
 
-## Resting at the Lagoon
+## 
 
 - [ ] ☁️ 71 > [](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [](Journey/072/Readme.md)
@@ -129,7 +128,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
-## Up into the mountains
+## 
 
 - [ ] ☁️ 81 > [](Journey/081/Readme.md)
 - [ ] ☁️ 82 > [](Journey/082/Readme.md)
@@ -142,7 +141,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
 
-## Into the sky to touch the cloud!
+## 
 
 - [ ] ☁️ 91 > [](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [](Journey/092/Readme.md)
